@@ -1,0 +1,1 @@
+# 页面使用时注意 :visibleDialog.sync="???" 接收到的参数为data初始化设置的Boolean值
